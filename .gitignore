@@ -134,3 +134,7 @@ dmypy.json
 # Data Volume for Zookeeper
 /data
 /bin
+
+# Mac files
+.DS_Store
+
